@@ -1,0 +1,15 @@
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\bin\Debug\net6.0\Data-Structure-And-Algorithm.exe
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\bin\Debug\net6.0\Data-Structure-And-Algorithm.deps.json
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\bin\Debug\net6.0\Data-Structure-And-Algorithm.runtimeconfig.json
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\bin\Debug\net6.0\Data-Structure-And-Algorithm.dll
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\bin\Debug\net6.0\Data-Structure-And-Algorithm.pdb
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\Data-Structure-And-Algorithm.csproj.AssemblyReference.cache
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\Data-Structure-And-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\Data-Structure-And-Algorithm.AssemblyInfoInputs.cache
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\Data-Structure-And-Algorithm.AssemblyInfo.cs
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\Data-Structure-And-Algorithm.csproj.CoreCompileInputs.cache
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\Data-Structure-And-Algorithm.dll
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\refint\Data-Structure-And-Algorithm.dll
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\Data-Structure-And-Algorithm.pdb
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\Data-Structure-And-Algorithm.genruntimeconfig.cache
+E:\c#\Data-Structure-And-Algorithm\Data-Structure-And-Algorithm\obj\Debug\net6.0\ref\Data-Structure-And-Algorithm.dll
